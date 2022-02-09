@@ -1,0 +1,11 @@
+{
+ "Name": "0 #Test",
+ "FilePath": "./Example/result/Metadata/0 #Test.json",
+ "CreationDate": "2022-02-09 17:17:38.0307459 -0300 -03 m=+51.315811501",
+ "Rarity": 0.00029629632,
+ "Layers": {
+  "Layer #0": "./Example/target/0_Head/Frame 1.png",
+  "Layer #1": "./Example/target/1_Eyes/Frame 1.png",
+  "Layer #2": "./Example/target/2_Mouth/Frame 1.png"
+ }
+}
